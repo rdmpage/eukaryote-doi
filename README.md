@@ -4,7 +4,7 @@ Datasets linking eukaryote taxonomic names to DOIs for corresponding publication
 
 ## Data
 
-The data is provided in the form of tab-delimited (TSV) files, one for each of Index Fungorum, IPNI, and ION. Each file is sorted by taxonomic name, and the ID column includes a database-specific prefix, so you could combine all the data into a single database if you wish.
+The data is provided in the form of tab-delimited (TSV) files, one for each of Index Fungorum, IPNI, and ION. Each file is sorted either by taxonomic name or identifier, and the ID column includes a database-specific prefix, so you could combine all the data into a single database if you wish.
 
 The data is provided here is a subset of the data in the above projects (for example, it only includes publications with DOIs, ignoring other persistent identifiers). The data is likely to contain errors, and may be behind the individual projects.
 
